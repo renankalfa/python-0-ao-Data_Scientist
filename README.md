@@ -6,3 +6,5 @@ Um curso que eu concluí que é voltado para uma **análise de dados completa pa
 </div>
 
 A partir dos últimos problemas de negócio, depois de uma análise no Jupyter Notebook, gerei um site com o que foi pedido pelo CEO de uma empresa fictícia. Ele pode ser encontrado [clicando aqui](https://analytics-house-kalfa.herokuapp.com/). O site fornece um overview da base de dados, informações por região, informações pelas da base de dados, um gráfico de densidade dos imóveis, filtros (para o CEO fazer as suas análises) e mais gráficos.
+
+Em construção...
